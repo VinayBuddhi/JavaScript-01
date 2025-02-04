@@ -65,3 +65,14 @@ console.log(student["age"]);
 
 student["fullName"] = "Vinay";
 console.log(student["fullName"]);
+
+
+// practice question about a amazon product to represent it in objects
+
+const product = {
+    title : "Parker Jotter",
+    rating : 4,
+    isDealOfDay : true,
+    prize : 270,
+    offer : 5,
+}
