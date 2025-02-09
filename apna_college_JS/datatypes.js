@@ -75,4 +75,20 @@ const product = {
     isDealOfDay : true,
     prize : 270,
     offer : 5,
-}
+};
+
+console.log(product);
+console.log(typeof product);
+
+const lnProfile = {
+    myName : "@shradhakhapra",
+    isVerified : true,
+    posts : 195,
+    isFollow : true,
+    followers : 569000,
+    following : 4,
+};
+
+console.log(lnProfile);
+console.log(typeof lnProfile.isVerified);
+
